@@ -1,8 +1,7 @@
 # Hi there 👋
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=davidlarre&theme=dark)](https://git.io/streak-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=davidlarre&theme=dark)](https://git.io/streak-stats)
 <!--
 **davidlarre/davidlarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
