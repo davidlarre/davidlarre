@@ -3,6 +3,7 @@
     <img src="https://streak-stats.demolab.com/?user=davidlarre&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
+
 ---
 
 ## 🐍 My Contributions
