@@ -9,7 +9,7 @@ on:
       - main
 
 permissions:
-  contents: write  # 🔥 MUY IMPORTANTE para que cree la rama output
+  contents: write
 
 jobs:
   build:
