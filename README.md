@@ -1,4 +1,2 @@
-## 🐍 My Contributions
-
-![snake gif](https://github.com/davidlarre/davidlarre/blob/output/dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
+ ![GIF de cabecera](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
 
